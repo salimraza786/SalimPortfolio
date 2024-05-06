@@ -1,3 +1,5 @@
+/* eslint-disable react/no-unescaped-entities */
+/* eslint-disable no-unused-vars */
 import React from "react";
 
 function About() {
@@ -9,8 +11,8 @@ function About() {
       <div>
         <h1 className="text-3xl font-bold mb-5">About</h1>
         <p>
-          Hello, I'm Akhil, a passionate Web developer with a keen eye for MERN
-          Stack . With a background in IT, I strive to create impactful and
+          Hello, I'm Salim Raza, a passionate Full Stack Web Devloper with a keen eye for Data Science
+           . With a background in IT, I strive to create impactful and
           visually stunning Software solutions that leave a lasting impression.
         </p>
         <br />
@@ -18,9 +20,9 @@ function About() {
           Education & Training
         </h1>
         <span>
-          [Degree/Certification], [Institution], [Year] [Degree/Certification],
-          [Institution], [Year] [Relevant Course], [Platform/Institution],
-          [Year]
+          [BTech], [Babu Banarsi Das Engineering College], [2024] [CSE/AKTU],
+          [Full Stack Web Devloper], [2024] , [Youtube/PW Skill].
+          
         </span>
         <br />
         <br />
@@ -28,10 +30,10 @@ function About() {
           Skills & Expertise
         </h1>
         <span>
-          Proficient in [Programming Languages] Experienced with [Software
-          Tools/Technologies] Strong grasp of [Design Principles/Concepts]
+          Proficient in [JAVA , JAVASCRIPT , PYTHON ] Experienced with [Software
+          Tools: VS Code, GitHub, Nodejs, IntelliJ IDEA, Bootstrap, Tailwind CSS etc. /Technologies: HTML , CSS , JavaScript , BootStrap , Tailwind Css , React Js, Nodejs , MongoDb , SQL , ExpressJs ,AWS , Data Structure And Algorithms.] Strong grasp of [MERN Stack and Data Structure]
           Excellent problem-solving skills Effective communicator and
-          collaborator
+          collaborator.
         </span>
         <br />
         <br />
@@ -39,11 +41,7 @@ function About() {
           Professional Experience
         </h1>
         <span>
-          [Job Title], [Company/Organization], [Dates] [Brief description of
-          responsibilities and achievements] [Job Title],
-          [Company/Organization], [Dates] [Brief description of responsibilities
-          and achievements] [Freelance/Contract Work], [Client/Organization],
-          [Dates] [Brief description of projects and contributions]
+          I am working as Teacher almost 1 Year in Filo Tutor Company. Basically as a Teacher I solve doubts of Students Subjects like Math And Physics JEE And Neet Students. and also I am a Youtuber.  
         </span>
         <br />
         <br />
@@ -51,8 +49,7 @@ function About() {
           Achievements & Awards
         </h1>
         <span>
-          [Award/Recognition], [Organization/Institution], [Year] [Achievement],
-          [Organization/Platform], [Year]
+          I Participate in coding and programming languages in many different plateform such as Leetcode and GFG. and also I Participate in my college many project based on MERN Stack and Contribute Code.
         </span>
         <br />
         <br />
@@ -61,7 +58,7 @@ function About() {
         </h1>
         <p>
           My mission is to leverage my skills and creativity to deliver
-          innovative [Your Field] solutions that exceed client expectations and
+          innovative  solutions that exceed client expectations and
           contribute positively to the digital landscape. I am committed to
           continuous learning and growth, always seeking new challenges and
           opportunities to expand my horizons.

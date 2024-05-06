@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React from "react";
 import java from "../../public/java.png";
 import python from "../../public/python.webp";
